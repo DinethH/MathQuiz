@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+
+    <string name="addition_toast">Addition Quiz</string>
+    <string name="subtraction_toast">Subtraction Quiz</string>
+    <string name="multiplication_toast">Multiplication Quiz</string>
+</resources>
